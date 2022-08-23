@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a Software Engineer working in Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/Mahedi_Niloy/">
@@ -18,9 +18,9 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/MohyminulIslam/KPI);
-- :fire: Interested in Software Engineering and SAP ABAP;
-- :calendar: Looking for contributing to .net based open source projects 
+- ✨ Contributing to [click-here](https://github.com/MohyminulIslam/KPI);
+- :fire: Interested in Software Development and SAP ABAP;
+- :calendar: Looking for contributing to .NET/.NET Core based open source projects. 
 
 #### Bio
 
@@ -68,6 +68,6 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="niloy.oct@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
