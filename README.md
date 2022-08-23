@@ -19,7 +19,7 @@
 #### Now
 
 - ✨ Contributing to [->KPI<-](https://github.com/MohyminulIslam/KPI);
-- :fire: Interested in Software Development and SAP ABAP;
+- 😍 Interested in Software Development and SAP ABAP;
 - :eyes: Looking for contributing to .NET/.NET Core based open source projects. 
 
 #### Bio
