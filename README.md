@@ -51,7 +51,7 @@
 
 #### Research Activity
 
-<p><b> &#9749; Publications</b></p>
+<p><b> 🧑‍💻 Publications</b></p>
 
 <a href="https://ieeexplore.ieee.org/document/9117214">
 <img src="img/ieee.svg" height=40>
