@@ -24,7 +24,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Healthcare Pharmaceuticals Ltd.**
+- 🏢 I'm currently working at [HPL](https://www.hplbd.com/)
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.py`
 - 🌍 I'm mostly active within the **.NET Community**
 - 🌱 Learning all about **SAP-ABAP**
