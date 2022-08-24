@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Software Engineer working in Dhaka, Bangladesh
+## Hi :wave: I'm a Software Engineer working in Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/Mahedi_Niloy/">
@@ -32,7 +32,7 @@
 - 📫 Reach me: [linkedin.com/in/mahedi-hasan-niloy](https://www.linkedin.com/in/mahedi-hasan-niloy/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
-#### My Current Stack
+### :hammer_and_wrench: My Current Stack
 
 <img height="48" src="img/c--4.svg" alt="C#"> <img height="48" src="img/microsoft-net.svg" alt="ASP.NET"> <img height="48" src="img/dot-net-core-7.svg" alt="ASP.NET Core"> <img height="48" src="img/logo-javascript.svg" alt="JavaScript"> <img height="48" src="img/jquery-2.svg" alt="jQuery"> <img height="48" src="img/bootstrap-4.svg" alt="Bootstrap"> <img height="48" src="img/microsoft-sql-server-1.svg" alt="MS SQL"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/python-original.svg" alt="Python">
 
