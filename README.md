@@ -18,7 +18,7 @@
 
 #### Now
 
-- ✨ Contributing to [KPI](https://github.com/MohyminulIslam/KPI),[e-Platform](https://github.com/niloy-oct/e-LearingPlatform);
+- ✨ Contributing to [KPI](https://github.com/MohyminulIslam/KPI),[e-LearningPlatform](https://github.com/niloy-oct/e-LearingPlatform);
 - 😍 Interested in Software Development and SAP ABAP;
 - :eyes: Looking for contributing to .NET/.NET Core based open source projects. 
 
