@@ -31,7 +31,7 @@
 - 🌱 Learning all about **.NET** , **SQL** , **SAP-ABAP**
 - 💬 Ping me about **C#**, **ASP.NET**, **ASP.NET Core**, **Javascript**, **MSSQL SERVER**
 - 📫 Reach me: [linkedin.com/in/mahedi-hasan-niloy](https://www.linkedin.com/in/mahedi-hasan-niloy/)
-- 📝 Checkout my [Resume](files/resume)
+- 📝 Checkout my [Resume](files/resume.pdf)
 
 ### :hammer_and_wrench: My Current Stack
 
