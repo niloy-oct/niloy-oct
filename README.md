@@ -1,4 +1,4 @@
-## Hi :wave: I'm a Software Engineer working in Dhaka, Bangladesh
+## Hi :wave: I'm a Software Engineer based in Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/Mahedi_Niloy/">
