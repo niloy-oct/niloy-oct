@@ -1,4 +1,4 @@
-## Hi :wave: I'm a Software Engineer based in Dhaka, Bangladesh
+## Hi :wave: I'm a Software Engineer,learn things for better world!
 
 <p align="left">
   <a href="https://leetcode.com/Mahedi_Niloy/">
@@ -26,9 +26,9 @@
 #### Bio
 
 - 🏢 I'm currently working at [HPL](https://www.hplbd.com/)
-- ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.py`
+- ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.py`,`.kt`
 - 🌍 I'm mostly active within the **.NET Community**
-- 🌱 Learning all about **.NET** , **SQL** , **SAP-ABAP**
+- 🌱 Learning all about **.NET** , **SQL** , **SAP-ABAP** , **Kotlin**
 - 💬 Ping me about **C#**, **ASP.NET**, **ASP.NET Core**, **Javascript**, **MSSQL SERVER**
 - 📫 Reach me: [linkedin.com/in/mahedi-hasan-niloy](https://www.linkedin.com/in/mahedi-hasan-niloy/)
 - 📝 Checkout my [Resume](files/resume.pdf)
