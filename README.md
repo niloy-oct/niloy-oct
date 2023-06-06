@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently working on [Accounts and Payroll Solution](https://www.iuaccounts.com/)
 
-- 🌱 I’m currently learning **Angular JS,.NET Core**
+- 🌱 I’m currently learning **.NET Core - Angular JS**
 
 - 👯 I’m looking to collaborate on **.NET based project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niloy-oct](https://github.com/niloy-oct)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/niloy-oct)
 
-- 📝 I am active on [https://www.linkedin.com/in/mahedi-hasan-niloy/](https://www.linkedin.com/in/mahedi-hasan-niloy/)
+- 📝 I am active on [Linkedin](https://www.linkedin.com/in/mahedi-hasan-niloy/)
 
-- 💬 Ask me about **.NET,SQL,Javascript,jQuery**
+- 💬 Ask me about **.NET - SQL - Javascript - jQuery**
 
 - 📫 How to reach me **niloy.oct@gmail.com**
 
-- 📄 Know about me [https://niloy-oct.github.io/](https://niloy-oct.github.io/)
+- 📄 Know about me [Mahedi Hasan Niloy](https://niloy-oct.github.io/)
 
 - ⚡ Fun fact **I am very much boaring**
 
