@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **niloy.oct@gmail.com**
 
-- 📄 Know about me [Mahedi Hasan Niloy](https://niloy-oct.github.io/)
+- 📄 Know about me [Mahedi Hasan Niloy](https://niloy-oct-github-io.vercel.app/)
 
 - ⚡ Fun fact **I am very much boaring**
 
