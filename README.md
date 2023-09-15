@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14950972/mahedi-hasan-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14950972/mahedi-hasan-niloy" height="30" width="40" /></a>
 <a href="https://fb.com/mahedi-hasan-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedi-hasan-niloy" height="30" width="40" /></a>
 <a href="https://instagram.com/niloy_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niloy_here" height="30" width="40" /></a>
-<a href="https://medium.com/@mahedi hasan niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahedi hasan niloy" height="30" width="40" /></a>
+<a href="https://medium.com/@niloy.oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahedi hasan niloy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mahedi_niloy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahedi_niloy/" height="30" width="40" /></a>
 </p>
 
